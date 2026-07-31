@@ -1,16 +1,29 @@
-## Hi there 👋
+### 📊 I'm playing with data here — Welcome to my GitHub Playlist.
 
-<!--
-**R-Kanhai/R-Kanhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here, you'll find:
 
-Here are some ideas to get you started:
+- 🛠️ Projects I'm building or contributing to
+- 📚 Things I've learned while juggling work, deadlines, and debugging
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rkanhai)
+
+<br>
+
+## 💻 Tech Stack
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-E97627?style=for-the-badge&logo=powerbi&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+<br>
+
+---

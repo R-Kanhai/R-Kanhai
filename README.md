@@ -8,7 +8,7 @@ Here, you'll find:
 
 ## 🌐 Socials
 
-[![LinkedIn](](https://linkedin.com/in/rkanhai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rkanhai/)
 <br>
 ## 💻 Tech Stack
 

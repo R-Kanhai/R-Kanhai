@@ -4,15 +4,11 @@ Here, you'll find:
 
 - 🛠️ Projects I'm building or contributing to
 - 📚 Things I've learned while juggling work, deadlines, and debugging
-
 <br>
-
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rkanhai)
-
 <br>
-
 ## 💻 Tech Stack
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -23,7 +19,5 @@ Here, you'll find:
 ![Power Query](https://img.shields.io/badge/Power%20Query-E97627?style=for-the-badge&logo=powerbi&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
 <br>
-
 ---

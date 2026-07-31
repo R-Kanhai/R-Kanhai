@@ -5,6 +5,7 @@ Here, you'll find:
 - 🛠️ Projects I'm building or contributing to
 - 📚 Things I've learned while juggling work, deadlines, and debugging
 <br>
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rkanhai)
